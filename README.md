@@ -1,2 +1,2 @@
 # ContinuousIntegration
-A Travis CI samplem project
+A Travis CI sample project
